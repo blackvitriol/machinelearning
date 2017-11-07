@@ -1,6 +1,5 @@
 # machinelearning
-.. contents:: **Machine Learning/ Deep Learning repo:**
-   :depth: 2
+ **Machine Learning/ Deep Learning repo:**
 
 1. Deep Convolutional Network: xxxx.py
   - for image classification: used CIFAR-10 dataset
