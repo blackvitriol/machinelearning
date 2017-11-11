@@ -1,5 +1,9 @@
- **Machine Learning/ Deep Learning repo:**
-
+Machine Learning/ Deep Learning repo:
+ 
+this is a compilation in process, and has not been updated with my latest work.
+as a dev, i like to create work that is easily configured by a third-party for UX/UI, this is why
+only single py files exist here.
+ 
 work implemented in TensorFlow and Python 2.7
 
 1. Deep Convolutional Network: CNN.py
